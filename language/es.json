@@ -113,7 +113,7 @@
       "description": "Esta opción solamente le permitirá mover hacia adelante en Conjunto de pregunta"
     },
     {
-      "label": "Barajear preguntas",
+      "label": "Barajar preguntas",
       "description": "Habilitar aleatorizar el orden de preguntas mostradas."
     },
     {
